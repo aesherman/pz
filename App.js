@@ -5,9 +5,9 @@ export default class App extends React.Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text>Hey it's me, your Petzi.</Text>
-        <Text>Change all your security settings to let me in.</Text>
-        <Text>It's totally secure, just trust me.</Text>
+        <Text>Hey it's me, your Pz.</Text>
+        <Text>None of this means anything and it's all just filler.</Text>
+        <Text>It's a good time for me.</Text>
       </View>
     );
   }
